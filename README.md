@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Artixis
-- 👀 I’m interested in ... anime tiddies
+- 👋 Hi, I’m Laura
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... math
 - 💞️ I’m looking to collaborate on ... code
 - 📫 How to reach me ... 
